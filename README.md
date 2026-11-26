@@ -2,6 +2,8 @@
 
 [![CI](https://github.com/ZakariaShahruri/Codex-x-TwitchCon-Hackathon/actions/workflows/ci.yml/badge.svg)](https://github.com/ZakariaShahruri/Codex-x-TwitchCon-Hackathon/actions/workflows/ci.yml)
 
+> This is a copy of the original repo, [ZakariaShahruri/Codex-x-TwitchCon-Hackathon](https://github.com/ZakariaShahruri/Codex-x-TwitchCon-Hackathon), with its full commit history. The original is the canonical version.
+
 **Twitchy catches leaks before your viewers ever see them.**
 
 ▶ **[Watch the 2-minute demo](https://youtu.be/7bE7jsvFZwk)**
